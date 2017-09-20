@@ -1,4 +1,4 @@
-%% user parameters
+%%   user parameters
 
 %session data
 Folder = 'Z:\Diego\DudiData\20170428\20170428_5';
